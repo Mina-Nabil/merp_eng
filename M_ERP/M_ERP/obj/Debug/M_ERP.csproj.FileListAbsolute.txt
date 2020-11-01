@@ -1,0 +1,147 @@
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M_ERP.exe.config
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M_ERP.exe
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M_ERP.pdb
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.csprojResolveAssemblyReference.cache
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.csproj.GenerateResource.Cache
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.exe
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.pdb
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.Activation.resources
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+C:\Users\PC-Mostafa\Desktop\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M_ERP.exe.config
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.exe
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.pdb
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M_ERP.exe
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M_ERP.pdb
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.csprojResolveAssemblyReference.cache
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.csproj.GenerateResource.Cache
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M_ERP.application
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.application
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\bin\Debug\M_ERP.exe.config
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.exe
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.pdb
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\bin\Debug\M_ERP.exe.manifest
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\bin\Debug\M_ERP.application
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\bin\Debug\M_ERP.exe
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\bin\Debug\M_ERP.pdb
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.csprojResolveAssemblyReference.cache
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.csproj.GenerateResource.Cache
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.exe.manifest
+F:\SummerAct\G Desktop App\M_ERP\M_ERP\obj\Debug\M_ERP.application
+F:\MERP\M_ERP\M_ERP\bin\Debug\M_ERP.exe.config
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.exe
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.pdb
+F:\MERP\M_ERP\M_ERP\bin\Debug\M_ERP.exe.manifest
+F:\MERP\M_ERP\M_ERP\bin\Debug\M_ERP.application
+F:\MERP\M_ERP\M_ERP\bin\Debug\M_ERP.exe
+F:\MERP\M_ERP\M_ERP\bin\Debug\M_ERP.pdb
+F:\MERP\M_ERP\M_ERP\bin\Debug\MySql.Data.dll
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.csprojResolveAssemblyReference.cache
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.csproj.GenerateResource.Cache
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.exe.manifest
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.application

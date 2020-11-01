@@ -1,0 +1,717 @@
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+F:\MERP\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+F:\MERP\M_ERP\M_ERP\bin\Debug\MySql.Data.dll
+F:\MERP\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+F:\MERP\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+F:\MERP\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.manifest
+F:\MERP\M_ERP\M_ERP\bin\Debug\M3_ERP.application
+F:\MERP\M_ERP\M_ERP\bin\Debug\M3_ERP.exe
+F:\MERP\M_ERP\M_ERP\bin\Debug\M3_ERP.pdb
+F:\MERP\M_ERP\M_ERP\obj\Debug\M3_ERP.exe.manifest
+F:\MERP\M_ERP\M_ERP\obj\Debug\M3_ERP.application
+F:\MERP\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+F:\MERP\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+F:\MERP\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\bin\Debug\M3_ERP.application
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\bin\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\bin\Debug\M3_ERP.pdb
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M3_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\1\M_ERP\M_ERP\obj\Debug\M3_ERP.application
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\bin\Debug\M3_ERP.application
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\bin\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\bin\Debug\M3_ERP.pdb
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M3_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\2\M_ERP\M_ERP\obj\Debug\M3_ERP.application
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\bin\Debug\M3_ERP.application
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\bin\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\bin\Debug\M3_ERP.pdb
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M3_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\3\M_ERP\M_ERP\obj\Debug\M3_ERP.application
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\bin\Debug\M3_ERP.application
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\bin\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\bin\Debug\M3_ERP.pdb
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M3_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\6\M_ERP\M_ERP\obj\Debug\M3_ERP.application
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\bin\Debug\M3_ERP.application
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\bin\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\bin\Debug\M3_ERP.pdb
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M3_ERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\GVersion\MERP\4\M_ERP\M_ERP\obj\Debug\M3_ERP.application
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+D:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.manifest
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\bin\Debug\M3_ERP.application
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\bin\Debug\M3_ERP.exe
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\bin\Debug\M3_ERP.pdb
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M3_ERP.exe.manifest
+E:\Jobs offers\GDesktopApplication\Mostafa Versions\7\M_ERP\M_ERP\obj\Debug\M3_ERP.application
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.manifest
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M3_ERP.application
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M3_ERP.exe
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\M3_ERP.pdb
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientAccounts.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.exe.manifest
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.application
+E:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.UserPermissionsForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.UserPermissionsForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientPayables.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SuppPayables.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SalesReportForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ClientPayables.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.SalesReportForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.SuppPayables.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.UserPermissionsForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.BoughtReportForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BoughtReportForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ProfitForm.resources
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\M_ERP.ScanBarcodeForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.manifest
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\M3_ERP.application
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\M3_ERP.exe
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\M3_ERP.pdb
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\mscorlib.dll
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\normidna.nlp
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\normnfc.nlp
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\normnfd.nlp
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\normnfkc.nlp
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\bin\Debug\normnfkd.nlp
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ClientPayables.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.BoughtReportForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ScanBarcodeForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ProfitForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.SalesReportForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.SuppPayables.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M_ERP.UserPermissionsForm.resources
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M3_ERP.exe.manifest
+C:\Users\Mostafa\Downloads\M_ERP\M_ERP\obj\Debug\M3_ERP.application
+F:\M_ERP\M_ERP\bin\Debug\M3_ERP.exe.config
+F:\M_ERP\M_ERP\obj\Debug\M3_ERP.exe
+F:\M_ERP\M_ERP\obj\Debug\M3_ERP.pdb
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\mscorlib.dll
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\normidna.nlp
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\normnfc.nlp
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\normnfd.nlp
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\normnfkc.nlp
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\normnfkd.nlp
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ClientPayables.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.BoughtReportForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ScanBarcodeForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ProfitForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.SalesReportForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.SuppPayables.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M_ERP.UserPermissionsForm.resources
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\MERP.exe.config
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\MERP.exe.manifest
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\MERP.application
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\MERP.exe
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\bin\Debug\MERP.pdb
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\MERP.exe.manifest
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\MERP.application
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\MERP.exe
+C:\Users\Mostafa\Desktop\M_ERP\M_ERP\obj\Debug\MERP.pdb
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.exe.config
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.exe
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.pdb
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.application
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.exe
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.pdb
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\mscorlib.dll
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\normidna.nlp
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\normnfc.nlp
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\normnfd.nlp
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\normnfkc.nlp
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\bin\Debug\normnfkd.nlp
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ScanBarcodeForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProfitForm.resources
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.exe.manifest
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.application
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\bin\Debug\MERP.exe.config
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\MERP.exe
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\MERP.pdb
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\bin\Debug\MERP.exe.manifest
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\bin\Debug\MERP.application
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\bin\Debug\MERP.exe
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\bin\Debug\MERP.pdb
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\MERP.exe.manifest
+C:\Users\Morie\Documents\Visual Studio 2013\Projects\M_ERP\M_ERP\obj\Debug\MERP.application
+D:\backups\Final Sa7el\M_ERP\M_ERP\bin\Debug\MERP.exe.config
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\MERP.exe
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\MERP.pdb
+D:\backups\Final Sa7el\M_ERP\M_ERP\bin\Debug\MERP.exe.manifest
+D:\backups\Final Sa7el\M_ERP\M_ERP\bin\Debug\MERP.application
+D:\backups\Final Sa7el\M_ERP\M_ERP\bin\Debug\MERP.exe
+D:\backups\Final Sa7el\M_ERP\M_ERP\bin\Debug\MERP.pdb
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ClientPayables.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.BoughtReportForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ScanBarcodeForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ProfitForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.SalesReportForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.SuppPayables.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M_ERP.UserPermissionsForm.resources
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\MERP.exe.manifest
+D:\backups\Final Sa7el\M_ERP\M_ERP\obj\Debug\MERP.application
+D:\Jobs offers\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalanceByDateForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.exe.config
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.exe
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.pdb
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.exe.manifest
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.application
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.exe
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.pdb
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientPayables.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BoughtReportForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalanceByDateForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ScanBarcodeForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProfitForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SalesReportForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SuppPayables.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.UserPermissionsForm.resources
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.exe.manifest
+C:\Users\OmarTareq\Desktop\ERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.application
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.exe.config
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.exe
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.pdb
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ActivationForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BuyingReturnInvoiceForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BuyInvoiceForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientPayables.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientRecords.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.BoughtReportForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalanceByDateForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ScanBarcodeForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProfitForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SalesReportForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemAddPermission.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemRemovePermission.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RecordTreasury.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RegPaymentPaper.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.RegRecievablePaper.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SellInvoicesForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.DBConfiguration.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.AdminPasswordEdit.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientNameEditForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.CompanyDetailsForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryBalance.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLimitCheck.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.InventoryLog.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ItemCatalogeEdit.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProdTypeMod.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ProductAdditionForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.LoginForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.MainForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ClientsDetailsForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SellReturnInvoiceForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ShowPayPapers.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.ShowRecPapers.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierDetailsForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.Properties.Resources.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierNameEditForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SupplierRecords.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.SuppPayables.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.TreasuryLog.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M_ERP.UserPermissionsForm.resources
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.csproj.GenerateResource.Cache
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.exe
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.pdb
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.TrustInfo.xml
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.exe.manifest
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\bin\Debug\MERP.application
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.exe.manifest
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\MERP.application
+D:\MERP\GDesktopApplication\M_ERP\M_ERP\obj\Debug\M3_ERP.csprojResolveAssemblyReference.cache
